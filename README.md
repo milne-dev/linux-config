@@ -1,5 +1,8 @@
 # linux-config
+
 Personal config that should not be forgotten.
+
+<img src="linux-penguin.jpg">
 
 ## git
 
