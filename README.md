@@ -44,3 +44,9 @@ function parse_git_branch() {
 
 export PS1="\u@\h \[\e[32m\]\w \[\e[91m\]\$(parse_git_branch)\[\e[00m\]$ "
 ```
+
+## Drivers
+
+### Nvidia
+
+The current driver that is not currently broken is `535.129.03` as of March 9, 2024.
