@@ -35,13 +35,13 @@ function gc() {
 }
 ```
 
-### other useful aliases
+### Other useful aliases
 
 ```bash
 alias ll='ls -la'
 ```
 
-### colours & git branch in command prompt
+### Colours & git branch in command prompt
 
 ```bash
 function parse_git_branch() {
