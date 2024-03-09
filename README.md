@@ -41,7 +41,7 @@ function gc() {
 alias ll='ls -la'
 ```
 
-### Colours & git branch in command prompt
+### colours & git branch in command prompt
 
 ```bash
 function parse_git_branch() {
