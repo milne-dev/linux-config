@@ -13,3 +13,24 @@ This will set the tab size to 2 spaces (your current preference). Works with `gn
 ```bash
 git config --global core.pager 'less -x1,3'
 ```
+
+## bash
+
+### `~/Projects` alias
+
+```bash
+alias p='cd ~/Projects'
+```
+
+### git aliases
+
+```bash
+alias gd='git diff'
+alias gs='git status'
+alias gp='git push'
+alias grs='git reset --hard HEAD'
+
+function gc() {
+  git commit -am "$*"
+}
+```
